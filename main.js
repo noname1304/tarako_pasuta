@@ -12,9 +12,9 @@ text_value = text_value.replace(/ね/g,"にぇ");
 text_value = text_value.replace(/na/g,"nya");
 text_value = text_value.replace(/Na/g,"Nya");
 text_value = text_value.replace(/NA/g,"NYA");
-text_value = text_value.replace(/ne/g,"nie");
-text_value = text_value.replace(/Ne/g,"Nie");
-text_value = text_value.replace(/NE/g,"NIE");
+text_value = text_value.replace(/ne/g,"nye");
+text_value = text_value.replace(/Ne/g,"Nye");
+text_value = text_value.replace(/NE/g,"NYE");
     
 //変換後のテキストエリアに表示 ..③
 after_text.value = text_value;
